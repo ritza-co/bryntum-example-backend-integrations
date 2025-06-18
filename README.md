@@ -17,7 +17,7 @@ This repository contains example backend integrations for Bryntum products with 
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-org/bryntum-backend-integration-examples.git
+   git clone https://github.com/bryntum/bryntum-backend-integration-examples.git
    cd bryntum-backend-integration-examples
    ```
 
